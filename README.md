@@ -24,7 +24,7 @@ Orchestrates AI agents to build a full day-by-day trip itinerary in **3 seconds*
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase" height="36" alt="Next.js, TypeScript, Tailwind, Supabase"/>
 
-[Try it](https://danieldombrovsky.com/trip-planner) · [Code](https://github.com/ddombrov/MapsProject)
+[Visit](https://danieldombrovsky.com/trip-planner) · [Code](https://github.com/ddombrov/MapsProject)
 
 <br clear="both"/>
 
@@ -36,7 +36,7 @@ A web version of the two-player board game with the Counterfeiters expansion. A 
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,cloudflare,js" height="36" alt="React, Vite, Tailwind, Cloudflare, JavaScript"/>
 
-[Play it](https://danieldombrovsky.com/splendor-duel) · [Code](https://github.com/ddombrov/splendor)
+[Visit](https://danieldombrovsky.com/splendor-duel) · [Code](https://github.com/ddombrov/splendor)
 
 <br clear="both"/>
 
@@ -50,7 +50,7 @@ Built at **Hack the 6ix 2024**. It automates phone calls to businesses for booki
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,py,firebase,materialui" height="36" alt="Next.js, React, Python, Firebase, Material UI"/>
 
-[Try it](https://danieldombrovsky.com/call-me-maybe) · [Code](https://github.com/ddombrov/HackThe6ix2024)
+[Visit](https://danieldombrovsky.com/call-me-maybe) · [Code](https://github.com/ddombrov/HackThe6ix2024)
 
 <br clear="both"/>
 
@@ -62,7 +62,7 @@ A Flutter app that scans a barcode and pulls up origin and sustainability inform
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="36" alt="Flutter, Dart, Firebase"/>
 
-[Code](https://github.com/ddombrov/oh_scanada)
+[Visit](https://danieldombrovsky.com/barcode-scanner) · [Code](https://github.com/ddombrov/oh_scanada)
 
 <br clear="both"/>
 
@@ -74,7 +74,7 @@ A C physics library that simulates billiards ball collisions, connected to a Pyt
 
 <img src="https://skillicons.dev/icons?i=c,py,js,jquery,html,css" height="36" alt="C, Python, JavaScript, jQuery, HTML, CSS"/>
 
-[Code](https://github.com/ddombrov/Billards-Game)
+[Visit](https://danieldombrovsky.com/billiards) · [Code](https://github.com/ddombrov/Billards-Game)
 
 <br clear="both"/>
 
@@ -86,7 +86,7 @@ Mancala and Ayo variants in Java with a Swing GUI, built on object-oriented desi
 
 <img src="https://skillicons.dev/icons?i=java" height="36" alt="Java"/>
 
-[Code](https://github.com/ddombrov/MancalaAndAyoGame)
+[Visit](https://danieldombrovsky.com/mancala) · [Code](https://github.com/ddombrov/MancalaAndAyoGame)
 
 <br clear="both"/>
 
@@ -98,7 +98,7 @@ A team project that analyzes name popularity and trends over time, using histori
 
 <img src="https://skillicons.dev/icons?i=py" height="36" alt="Python"/>
 
-[Code](https://github.com/ddombrov/BabyNamesFrequencyProject)
+[Visit](https://danieldombrovsky.com/baby-names) · [Code](https://github.com/ddombrov/BabyNamesFrequencyProject)
 
 <br clear="both"/>
 
