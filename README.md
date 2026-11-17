@@ -1,5 +1,3 @@
-<img src="assets/banner.jpg" width="100%" alt="Mountain banner"/>
-
 # Hi, I'm Daniel 👋
 
 Software Engineering student at the **University of Guelph** and a **Software Engineer at Pepper** in Toronto. I build full-stack products: payments, data pipelines, AI tools, and the occasional board game.
@@ -150,8 +148,6 @@ My portfolio: a scrolling timeline, an AI assistant you can ask about me, and li
 - A disease-research modeling collaboration platform used by **70+ faculty members**
 - Plotly and R dashboards for hospitalization predictions
 - A Selenium and BeautifulSoup scraper that pulled 1,000+ Google Scholar pages in minutes, cutting data collection time by **99%**
-
-<img src="assets/photos/ceps-platform.jpg" width="49%" alt="The research collaboration platform's homepage"/>
 
 <br/>
 
