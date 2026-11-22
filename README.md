@@ -16,7 +16,7 @@ Also: Fastify, Hasura, Pandas, Plotly, Selenium, BeautifulSoup, JUnit, OpenAI, G
 
 ## Projects
 
-<img src="assets/projects/placeholder.svg" align="right" width="380" alt="AI Vacation Planner screenshot"/>
+<img src="assets/projects/trip-planner.jpg" align="right" width="380" alt="AI Vacation Planner screenshot"/>
 
 ### AI Vacation Planner
 
@@ -28,7 +28,7 @@ Orchestrates AI agents to build a full day-by-day trip itinerary in **3 seconds*
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="left" width="380" alt="Splendor Duel screenshot"/>
+<img src="assets/projects/splendor-duel.jpg" align="left" width="380" alt="Splendor Duel screenshot"/>
 
 ### Splendor Duel
 
@@ -40,7 +40,7 @@ A web version of the two-player board game with the Counterfeiters expansion. A 
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="right" width="380" alt="AI Voice Caller screenshot"/>
+<img src="assets/projects/call-me-maybe.jpg" align="right" width="380" alt="AI Voice Caller screenshot"/>
 
 ### AI Voice Caller
 
@@ -54,19 +54,19 @@ Built at **Hack the 6ix 2024**. It automates phone calls to businesses for booki
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="left" width="380" alt="Canadian-Origin Barcode Scanner screenshot"/>
+<img src="assets/projects/barcode-scanner.jpg" align="left" width="200" alt="Canadian-Origin Barcode Scanner screenshot"/>
 
 ### Canadian-Origin Barcode Scanner
 
-A Flutter app that scans a barcode and pulls up origin and sustainability information for **1M+ products**, with social features, profile settings, and accessibility modes backed by Firestore.
+A Flutter app that scans a barcode and pulls up origin and sustainability information for **1M+ products**, with community posts stored in Cloudflare D1, profile settings, and accessibility modes.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="36" alt="Flutter, Dart, Firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cloudflare" height="36" alt="Flutter, Dart, Firebase, Cloudflare"/>
 
 [Visit](https://danieldombrovsky.com/barcode-scanner) · [Code](https://github.com/ddombrov/oh_scanada)
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="right" width="380" alt="Billiards Pool Simulator screenshot"/>
+<img src="assets/projects/billiards.jpg" align="right" width="380" alt="Billiards Pool Simulator screenshot"/>
 
 ### Billiards Pool Simulator
 
@@ -78,7 +78,7 @@ A C physics library that simulates billiards ball collisions, connected to a Pyt
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="left" width="380" alt="Mancala screenshot"/>
+<img src="assets/projects/mancala.jpg" align="left" width="380" alt="Mancala screenshot"/>
 
 ### Mancala Board Game
 
@@ -90,7 +90,7 @@ Mancala and Ayo variants in Java with a Swing GUI, built on object-oriented desi
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="right" width="380" alt="Baby Names Frequency Tracker screenshot"/>
+<img src="assets/projects/baby-names.jpg" align="right" width="380" alt="Baby Names Frequency Tracker screenshot"/>
 
 ### Baby Names Frequency Tracker
 
@@ -102,7 +102,7 @@ A team project that analyzes name popularity and trends over time, using histori
 
 <br clear="both"/>
 
-<img src="assets/projects/placeholder.svg" align="left" width="380" alt="danieldombrovsky.com screenshot"/>
+<img src="assets/projects/website.jpg" align="left" width="380" alt="danieldombrovsky.com screenshot"/>
 
 ### danieldombrovsky.com
 
