@@ -54,7 +54,7 @@ Built at **Hack the 6ix 2024**. It automates phone calls to businesses for booki
 
 <br clear="both"/>
 
-<img src="assets/projects/barcode-scanner.jpg" align="left" width="200" alt="Canadian-Origin Barcode Scanner screenshot"/>
+<img src="assets/projects/barcode-scanner.jpg" align="left" width="380" alt="Canadian-Origin Barcode Scanner screenshot"/>
 
 ### Canadian-Origin Barcode Scanner
 
